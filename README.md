@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Well hello there, I'm Adam!
 
-<!--
-**adamlund/adamlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front end, back end, UX and Product Design. Code, No-code. SQL, NoSQL. 
+Decades of experience designing, building, and delivering digital experiences across the Web and mobile apps. I build things, solve problems, and enjoy deligting users.
+- [**LinkedIn** ](https://www.linkedin.com/in/adamlund)
+- [**Portfolio**](https://adamlund.design)
 
-Here are some ideas to get you started:
+## 🌟 Highlights & Hype
+- Author of [TabStacks Browser Plugin](https://chromewebstore.google.com/detail/tabstacks-tab-and-history/dlnnmaeafoliffblhenabcijmogfefha)
+- Produced design systems for 4 companies
+- WCAG 2.1 contributor
+- 12 Patents granted
+- Apple Design Award recipient
+- Good Housekeeping award for product UX design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Products Delivered
+- [Platform Components](https://fieldnation.design) for Field Nation. The design system used by Field Nation to rapidly build and deploy product features.
+- [Market Smart Insights](https://fieldnation.com/marketsmart) product for Field Nation. High performance.
+- [iMedNet EDC](https://www.imednet.com/): HIPAA, GDPR, and CFR compliant  medical study data collection platform and [Developer API portal](https://portal.prod.imednetapi.com/).
+- [Granicus Design System](http://ui.granicus.com) (formerly GovDelivery)
+
+## 💻 Provicient Tech Stacks
+- **Languages:** TypeScript, JavaScript (ES6+), PHP, HTML5, CSS3
+- **Frameworks/Libraries:** React, NestJS, Next.js, Node.js, Express.js, Angular, and Web Components
+- **Tools & Technologies:** Git, GitHub, Docker, Kubernetes, Webpack, Babel
+- **Design Tools:** Figma, Sketch
+- **DB | Persistence:** MySQL, PostgreSQL, RedShift, Redis, ElasticSearch
