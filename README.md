@@ -1,13 +1,12 @@
 # 👋 Well hello there, I'm Adam!
 
-Front end, back end, UX and Product Design. Code, No-code. SQL, NoSQL. 
-Decades of experience designing, building, and delivering digital experiences across the Web and mobile apps. I build things, solve problems, and enjoy deligting users.
-- [**LinkedIn** ](https://www.linkedin.com/in/adamlund)
-- [**Portfolio**](https://adamlund.design)
+Front end, back end, UX and Product Design. Designing, building, and delivering digital experiences across the Web and mobile apps. I build things, solve problems, and enjoy delighting users.
+- 🏃‍♂️&nbsp;[**LinkedIn** ](https://www.linkedin.com/in/adamlund)
+- 🎨&nbsp;[**Portfolio**](https://adamlund.design)
 
 ## 🌟 Highlights & Hype
 - Author of [TabStacks Browser Plugin](https://chromewebstore.google.com/detail/tabstacks-tab-and-history/dlnnmaeafoliffblhenabcijmogfefha)
-- Produced design systems for 4 companies
+- Produced design systems for four companies
 - WCAG 2.1 contributor
 - 12 Patents granted
 - Apple Design Award recipient
