@@ -1,6 +1,6 @@
 # 👋 Well hello there, I'm Adam!
 
-Front end, back end, UX and Product Design. Designing, building, and delivering digital experiences across the Web and mobile apps. I build things, solve problems, and enjoy delighting users.
+Front end, back end, team leadership, product design. Creating and delivering digital experiences across the Web and mobile apps. I build things, solve problems, and enjoy delighting users.
 - 🏃‍♂️&nbsp;[**LinkedIn** ](https://www.linkedin.com/in/adamlund)
 - 🎨&nbsp;[**Portfolio**](https://adamlund.design)
 
@@ -17,8 +17,9 @@ Front end, back end, UX and Product Design. Designing, building, and delivering 
 - [Market Smart Insights](https://fieldnation.com/marketsmart) product for Field Nation. High performance.
 - [iMedNet EDC](https://www.imednet.com/): HIPAA, GDPR, and CFR compliant  medical study data collection platform and [Developer API portal](https://portal.prod.imednetapi.com/).
 - [Granicus Design System](http://ui.granicus.com) (formerly GovDelivery)
+- Schwieters Medical web site [https://psychiatrymn.com)](https://psychiatrymn.com)
 
-## 💻 Provicient Tech Stacks
+## 💻 Proficient Tech Stacks
 - **Languages:** TypeScript, JavaScript (ES6+), PHP, HTML5, CSS3
 - **Frameworks/Libraries:** React, NestJS, Next.js, Node.js, Express.js, Angular, and Web Components
 - **Tools & Technologies:** Git, GitHub, Docker, Kubernetes, Webpack, Babel
